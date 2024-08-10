@@ -45,6 +45,6 @@ flutter pub get
 flutter run
 
 ## 🙏 Special Thanks
-A special thank you to <strong><em>Angela Yu</em></strong> and her amazing <a href="https://www.udemy.com/course/flutter-bootcamp-with-dart/?couponCode=NVDIN35">Udemy course on Flutter development.</a> 
+A special thank you to <strong><em><a href="https://medium.com/@angelayu_30766">Angela Yu</a></em></strong> and her amazing <a href="https://www.udemy.com/course/flutter-bootcamp-with-dart/?couponCode=NVDIN35">Udemy course on Flutter development.</a> 
 Her course was instrumental in building this app, providing not only technical skills but also the inspiration to create playful and engaging applications.
 If you're interested in learning Flutter, her course is highly recommended!
