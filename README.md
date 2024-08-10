@@ -17,7 +17,6 @@ With a playful yet informative design, FitKitty is perfect for users of all ages
 Home screen with colorful buttons and fun characters
 
 
-
 BMI Result screen with personalized feedback and tips
 
 
