@@ -16,12 +16,12 @@ With a playful yet informative design, FitKitty is perfect for users of all ages
 
 ### Home screen with colorful buttons and fun characters
 
-![home_page](https://github.com/user-attachments/assets/c2c8f99c-2084-4496-8ebd-53098c4bb1ed)
+![home_page](https://github.com/user-attachments/assets/31bb2f72-8344-4621-a33c-9601985f6646)
 
 
 ### BMI Result screen with personalized feedback and tips
 
-![result_page](https://github.com/user-attachments/assets/0ada1bfb-788e-45e7-af7e-175f10e86177)
+![result_page](https://github.com/user-attachments/assets/954d9b41-4cfb-4380-add2-ff64e4c4b5e0)
 
 
 ## 🚀 Getting Started
